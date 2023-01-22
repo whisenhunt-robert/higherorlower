@@ -9,7 +9,6 @@ I created this to demonstrate the use of Visual Studio Code, GitHub, and Java in
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 - Visual Studio Code
 - Java Programming Language
 - Java Development Kit (JDK)
