@@ -5,7 +5,7 @@ Then it reveals what random number between 1-15 was generated for both the playe
 
 I created this to demonstrate the use of Visual Studio Code, GitHub, and Java integrated together. While also having something fun to mess with.
 
-[Software Demo Video](Coming Soon!)
+[Software Demo Video](https://youtu.be/-4p-FC7LAno)
 
 # Development Environment
 
